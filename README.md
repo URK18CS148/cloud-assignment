@@ -14,3 +14,4 @@
 7.Created account in aws educate and went to central aws management console
 
 8.After that the chart is deployed successfully.
+link: https://cloudass1.s3.amazonaws.com/cloud+ass1.html
